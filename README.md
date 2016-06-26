@@ -1,1 +1,1 @@
-### Sky data mining
+### Skype data mining
